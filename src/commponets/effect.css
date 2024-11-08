@@ -1,0 +1,53 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown:hover {
+  border: 2px solid white;
+}
+
+
+.dropdown:hover .dropdown-menubar {
+  display: block;
+}
+
+.cart:hover {
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+.img:hover {
+  border: 2px solid white;
+}
+
+.location:hover {
+  border: 2px solid white;
+}
+
+.dropdown:hover .dropdown-menubar {
+  display: flex;
+}
+
+.return:hover {
+  border: 2px solid white;
+}
+
+.second {
+  background-color: #232F3E;
+}
+
+.lis {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lis a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+}
+
+
+
+

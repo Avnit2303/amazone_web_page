@@ -1,0 +1,68 @@
+.lis a:hover {
+  text-decoration: underline;
+  border: 2px solid white;
+}
+
+.footer {
+  background-color: #232F3E;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.secondfooter {
+  background-color: #021323;
+}
+
+.f1:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f2:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f3:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f4:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f5:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f6:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f7:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.f8:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+.secondfooter{
+  font-size: small;
+  padding: 25px 25px 25px 25px;
+}
